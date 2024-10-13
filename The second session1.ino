@@ -1,5 +1,5 @@
 // Experiment 2: Two LEDs, Two 1s on, 1s off
-int led1 = 9;
+int led1 = 12;
 int led2 = 13;
 void setup() {
 pinMode(led1,OUTPUT);
